@@ -6,7 +6,7 @@ def baner():
 \t\033[90m----------
 \033[1;97m[\033[1;94m•\033[1;97m]Creator:\033[1;92mFR13NDS
 \033[1;97m[\033[1;94m•\033[1;97m]Github :\033[4;92mgithub.com/FR13NDS666\033[00m
-\033[1;97m[\033[1;94m•\033[1;97m]note   :\033[4;92mjangan gunakan sembarangan tidak bertanggung jawab 
+\033[1;97m[\033[1;94m•\033[1;97m]note   :\033[4;92mjangan gunakan sembarangan saya tidak bertanggung jawab 
 \033[90m___________________________________""")
 def countdownTimer(start_minute, start_second):
     total_second = start_minute * 60 + start_second
